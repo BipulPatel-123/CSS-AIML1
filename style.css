@@ -2,15 +2,63 @@ h1{
   color: red;
 }
 
-p{
+/* p{
   color: blue; 
   background-color: red;
   text-align: center;
-}
+} */
 .p{
   color: green;
   background-color:lightblue;
 }
 #jk{
   font-size: 25px;
+}
+/* div{
+
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  margin: 200px;
+}
+#zero{
+  background-color:red ;
+  font-size: 15px;
+  text-align: center;
+  border: 1px solid black;
+
+}
+
+#first{
+  background-color:blue;
+  font-size: 15px;
+  text-align: right;
+  border: 2px dash red;
+}
+
+#second{
+   background-color:green;
+  font-size: 15px;
+  text-align: left;
+  border: 3px dotted blue;
+}
+
+#third{
+   background-color:yellow;
+  font-size: 15px;
+  text-align: justify;
+  border: 3px double green;
+} */
+
+div{
+  text-align: center;
+  border: 5px solid black;
+  padding: 10px;
+}
+#h{
+  color: blue;
+}
+.p{
+  background-color: white;
+  text-align: left;
 }
